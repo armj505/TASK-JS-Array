@@ -123,4 +123,3 @@ function youGottaCalmDown(shout) {
 youGottaCalmDown("HI!!!!!!!!!!");
 youGottaCalmDown("Taylor Schwifting!!!!!!!!!!!");
 youGottaCalmDown("Hellooooo");
-youGottaCalmDown("Hoohoo");
